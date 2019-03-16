@@ -1,0 +1,21 @@
+{
+    "name": "valjak/composer-example-package",
+    "description": "example",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clone",
+    "authors": [
+        {
+            "name": "Oleg Marsal",
+            "email": "vkulagina3247@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "valjak\\parser\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
