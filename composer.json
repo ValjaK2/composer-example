@@ -5,7 +5,7 @@
     "require": {
         "php": "^7.0"
     },
-    "license": "BSD-3-Clone",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Oleg Marsal",
